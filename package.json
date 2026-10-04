@@ -1,6 +1,7 @@
 {
   "name": "consensus-facilitator",
   "version": "0.3.0",
+  "license": "MIT",
   "description": "x402 payment facilitator — ICP, EVM (mainnet + Base + testnets), SVM (mainnet + devnet)",
   "type": "module",
   "scripts": {

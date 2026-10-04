@@ -14,3 +14,7 @@ npm start       # node dist/index.js
 ```
 
 Production runs under PM2 (`ecosystem.config.cjs`): `npm run pm2:start`.
+
+## License
+
+[MIT](./LICENSE) © Canister Software Inc
